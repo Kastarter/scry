@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+*.swp
+*.swo
+node_modules/
+!vendor/bird-search/node_modules/
+ARTICLE.md
+.env
+*.egg-info/
+dist/
+build/
